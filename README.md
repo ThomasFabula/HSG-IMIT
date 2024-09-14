@@ -3,7 +3,8 @@ Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V., Institut für Mikro 
 - https://www.hahn-schickard.de/
 
 ## FFMU
-Forschungsgesellschaft für Feingerät-, Mikro- und Uhren-Technik e.V., Stuttgart
+Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V., Stuttgart
+- https://digibus.ub.uni-stuttgart.de/viewer/!toc/1695967683516/5/-/
 - Aufbaujahre 1988-1991 in Villingen-Schwenningen
 - Junghansville in VS-Villingen & Reinraum in Erlangen (Siemens AG)
 - Instituts-Neubau in Villingen-Schwenningen
