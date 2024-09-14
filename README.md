@@ -14,7 +14,7 @@ Insitutsleiter HSG-IMIT
 - ab 20xx : Prof. Dr. Oliver Amft, Prof. Dr.-Ing. Alfons Dehé
 
 ## FFMU - Stuttgart
-Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V., Stuttgart
+Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V., früherer Sitz in Stuttgart
 - https://digibus.ub.uni-stuttgart.de/viewer/!toc/1695967683516/5/-/
 - Aufbaujahre 1988-1991 in Villingen-Schwenningen
 - Junghansvilla (Labore) in D-78050 VS-Villingen, Roggenbachstraße 6
