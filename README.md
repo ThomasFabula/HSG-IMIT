@@ -5,6 +5,12 @@ Hahn-Schickard-Gesellschaft für angewandte Forschung e.V., Institut für Mikro 
 Wikipedia
 - https://de.wikipedia.org/wiki/Hahn-Schickard-Gesellschaft
 
+Insitutsleiter HSG-IMIT
+- 1988 - 1991 : Prof. Dr. Stephanus Büttgenbach,
+- 1992 - 1992 : Dr. Werner Kulke,
+- 1994 - 2005 : Prof. Dr. Ing. Hermann Sandmaier, 
+- ab 2005: Prof. Dr. Yiannos Manoli, Prof. Dr. Holger Reinecke und Prof. Dr. Roland Zengerle 
+
 ## FFMU
 Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V., Stuttgart
 - https://digibus.ub.uni-stuttgart.de/viewer/!toc/1695967683516/5/-/
