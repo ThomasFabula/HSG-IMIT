@@ -17,7 +17,8 @@ Insitutsleiter HSG-IMIT
 Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V., Stuttgart
 - https://digibus.ub.uni-stuttgart.de/viewer/!toc/1695967683516/5/-/
 - Aufbaujahre 1988-1991 in Villingen-Schwenningen
-- Junghansvilla (Labore) in VS-Villingen & Reinraum in Erlangen (Siemens AG)
+- Junghansvilla (Labore) in D-78050 VS-Villingen, Roggenbachstraße 6
+- Reinraum in Erlangen (Siemens AG)
   
 ## Institut für Mikro- und Informationstechnik 
 Instituts-Neubau mit Reinraum in Villingen-Schwenningen 
