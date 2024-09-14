@@ -6,11 +6,11 @@ Hahn-Schickard-Gesellschaft für angewandte Forschung e.V., Institut für Mikro 
 Wikipedia
 - https://de.wikipedia.org/wiki/Hahn-Schickard-Gesellschaft
 
-Insitutsleiter HSG-IMIT
+Insitutsleiter HSG-IMIT in VS-Villingen
 - 1988 - 1991 : Prof. Dr.rer.nat., Dipl.-Phys. Stephanus Büttgenbach,
 - 1992 - 1992 : Dr.rer.nat., Dipl.-Phys. Werner Kulcke (IBM Fellow, 1983),
 - 1994 - 2005 : Prof. Dr.-Ing. Hermann Sandmaier, 
-- ab 2005 : Prof. Dr. Yiannos Manoli, Prof. Dr. Holger Reinecke und Prof. Dr. Roland Zengerle
+- ab 2005 : Prof. Dr. Yiannos Manoli, Prof. Dr. Holger Reinecke, Prof. Dr. Roland Zengerle
 - ab 20xx : Prof. Dr. Oliver Amft, Prof. Dr.-Ing. Alfons Dehé
 
 ## FFMU - Stuttgart
@@ -22,7 +22,7 @@ Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V., früher
   
 ## Institut für Mikro- und Informationstechnik 
 Instituts-Neubau mit Reinraum in Villingen-Schwenningen 
-- ab ca. 1991 bis 1994 in Villingen-Schwenningen
+- ab ca. 1991 bis 1994 in VS-Villingen
 
 ## Neubau Büro- und Technologiegebäude - Erweiterung Reinraum
 Neubau eines dreigeschossigen Büro- und Technologiegebäudes und Erweiterung des Reinraums
