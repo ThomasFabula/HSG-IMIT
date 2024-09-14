@@ -2,6 +2,9 @@
 Hahn-Schickard-Gesellschaft für angewandte Forschung e.V., Institut für Mikro und Informationstechnik
 - https://www.hahn-schickard.de/
 
+Wikipedia
+- https://de.wikipedia.org/wiki/Hahn-Schickard-Gesellschaft
+
 ## FFMU
 Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V., Stuttgart
 - https://digibus.ub.uni-stuttgart.de/viewer/!toc/1695967683516/5/-/
