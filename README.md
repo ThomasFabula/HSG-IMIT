@@ -6,16 +6,16 @@ Wikipedia
 - https://de.wikipedia.org/wiki/Hahn-Schickard-Gesellschaft
 
 Insitutsleiter HSG-IMIT
-- 1988 - 1991 : Prof. Dr. Stephanus Büttgenbach,
-- 1992 - 1992 : Dr. Werner Kulke,
-- 1994 - 2005 : Prof. Dr. Ing. Hermann Sandmaier, 
+- 1988 - 1991 : Prof. Dr.rer.nat., Dipl.-Phys. Stephanus Büttgenbach,
+- 1992 - 1992 : Dr.rer.nat., Dipl.-Phys. Werner Kulcke (IBM Fellow),
+- 1994 - 2005 : Prof. Dr.-Ing. Hermann Sandmaier, 
 - ab 2005 : Prof. Dr. Yiannos Manoli, Prof. Dr. Holger Reinecke und Prof. Dr. Roland Zengerle 
 
 ## FFMU - Stuttgart
 Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V., Stuttgart
 - https://digibus.ub.uni-stuttgart.de/viewer/!toc/1695967683516/5/-/
 - Aufbaujahre 1988-1991 in Villingen-Schwenningen
-- Junghansvilla in VS-Villingen & Reinraum in Erlangen (Siemens AG)
+- Junghansvilla (Labore) in VS-Villingen & Reinraum in Erlangen (Siemens AG)
   
 ## Institut für Mikro- und Informationstechnik 
 Instituts-Neubau mit Reinraum in Villingen-Schwenningen 
