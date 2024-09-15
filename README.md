@@ -17,12 +17,13 @@ Insitutsleiter HSG-IMIT in VS-Villingen
 Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V., früherer Sitz in Stuttgart
 - https://digibus.ub.uni-stuttgart.de/viewer/!toc/1695967683516/5/-/
 - Aufbaujahre 1988-1991 in Villingen-Schwenningen
-- Junghansvilla (Labore) in D-78050 VS-Villingen, Roggenbachstraße 6
+- Umbau & Sanierung Junghansvilla (Labore) in D-78050 VS-Villingen, Roggenbachstraße 6
 - Reinraum in Erlangen (Siemens AG)
   
 ## Institut für Mikro- und Informationstechnik 
 Instituts-Neubau mit Reinraum in Villingen-Schwenningen 
 - ab ca. 1991 bis 1994 in VS-Villingen
+- https://tfconsult.com/aufbau-mikrotechnik-forschungsinstitut/
 
 ## Neubau Büro- und Technologiegebäude - Erweiterung Reinraum
 Neubau eines dreigeschossigen Büro- und Technologiegebäudes und Erweiterung des Reinraums
