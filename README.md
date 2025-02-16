@@ -1,6 +1,7 @@
 # HSG-IMIT
 Hahn-Schickard-Gesellschaft für angewandte Forschung e.V., Institut für Mikro und Informationstechnik
-- Sitz der Gesellschaft: D-78052 Villingen-Schwenningen, Wilhelm-Schickard-Str. 10
+- Sitz der Gesellschaft: VS-Villingen
+- Adresse: D-78052 Villingen-Schwenningen, Wilhelm-Schickard-Str. 10
 - https://www.hahn-schickard.de/
 
 Wikipedia
@@ -16,11 +17,11 @@ Insitutsleiter HSG-IMIT in VS-Villingen
 ## FFMU - Stuttgart
 Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V., früherer Sitz in Stuttgart
 - https://digibus.ub.uni-stuttgart.de/viewer/!toc/1695967683516/5/-/
-- Aufbaujahre 1988-1991 in Villingen-Schwenningen
+- Aufbaujahre 1988-1991 in Villingen-Schwenningen, Warenbachtal
 - Umbau & Sanierung Junghansvilla (Labore) in D-78050 VS-Villingen, Roggenbachstraße 6
 - Reinraum in Erlangen (Siemens AG)
   
-## Institut für Mikro- und Informationstechnik 
+## Neubau Institut für Mikro- und Informationstechnik 
 Instituts-Neubau mit Reinraum in Villingen-Schwenningen 
 - ab ca. 1991 bis 1994 in VS-Villingen
 - https://tfconsult.com/aufbau-mikrotechnik-forschungsinstitut/
