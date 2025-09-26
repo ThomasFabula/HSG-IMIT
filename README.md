@@ -15,11 +15,11 @@ Insitutsleiter HSG-IMIT in VS-Villingen
 - ab 20xx : Prof. Dr. Oliver Amft, Prof. Dr.-Ing. Alfons Dehé
 
 ## FFMU - Stuttgart
-Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V., früherer Sitz in Stuttgart
+Forschungsgesellschaft für Feingeräte-, Mikro- und Uhren-Technik e.V. (FFMU), früherer Sitz in Stuttgart:
 - https://digibus.ub.uni-stuttgart.de/viewer/!toc/1695967683516/5/-/
 - Aufbaujahre 1988-1991 in Villingen-Schwenningen, Warenbachtal
 - Umbau & Sanierung Junghansvilla (Labore) in D-78050 VS-Villingen, Roggenbachstraße 6
-- Reinraum in Erlangen (Siemens AG)
+- Temporärer Reinraum in Erlangen (Siemens AG)
   
 ## Neubau Institut für Mikro- und Informationstechnik 
 Instituts-Neubau mit Reinraum in Villingen-Schwenningen 
@@ -28,6 +28,6 @@ Instituts-Neubau mit Reinraum in Villingen-Schwenningen
 
 ## Neubau Büro- und Technologiegebäude - Erweiterung Reinraum
 Neubau eines dreigeschossigen Büro- und Technologiegebäudes und Erweiterung des Reinraums
-- Rohbau: Oktober 2017 - Juni 2018, Einweihung: Juni 2019
+- Rohbau: Oktober 2017 bis Juni 2018, Einweihung: Juni 2019
 - https://se-ingenieure.de/projekte/industrie/buero-und-technologiegebaeude-hahn-schickard-gesellschaft
   
